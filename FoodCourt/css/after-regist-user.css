@@ -1,0 +1,172 @@
+body {
+	background-color: #FF7B40;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+    background-position: center;
+	margin: 0;	
+}
+
+.register-user{
+	
+	
+}
+
+.login h2{
+	margin-left: 20px;
+	font-family: 'Roboto';
+	padding-top: 10px;
+}
+
+.pass h2{
+	margin-left: 20px;
+	font-family: 'Roboto';
+}
+
+.input-text{
+	background-color:#D9D9D9;
+	height: 30px;
+	margin-top: -15px;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-radius: 1em 1em 1em 1em;
+}
+
+.botton-register{
+	background-color:#FF7B40;
+	border-radius: 1em 1em 1em 1em;
+	height: 80px;
+	
+	margin: 0 10px 0;
+}
+
+.botton-register h2{
+	text-align: center;
+	padding:  20px;
+	font-family: 'Roboto';
+	color: #FFFFFF;
+}
+
+.botton-back{
+	background-color:#FF7B40;
+	border-radius: 1em 1em 1em 1em;
+	height: 40px;
+	width: 160px;
+	margin: auto;
+}
+
+.botton-back h2{
+	text-align: center;
+	padding:  5px;
+	font-family: 'Roboto';
+	color: #FFFFFF;
+}
+
+header{
+	padding: 15px 0px 0px;
+	
+}
+
+html {
+  background-image: url(BackPhoto.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  
+  background-size: cover;
+}
+
+.pod{
+	position: 50%;
+	text-align: center;
+	font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    margin: auto;
+}
+
+.register-link { 
+    text-decoration: none; /* Убираем подчёркивание */   
+}
+.logo{
+	padding-left:40px;
+	width: 220px;
+	
+}
+
+.header-container{
+	width: 300px;
+	margin: 0 auto;
+}
+
+.question-section{
+	width: 320px;
+	margin-top: 140px
+}
+
+.question{
+	margin-left:40px;
+}
+
+.background-box{
+	background-color:#FFFFFF;
+	
+	width: 100%;
+	height:100%;
+	
+	border-radius: 2em 2em 0em 0em;
+}
+
+.text-color{
+	color: #FFFFFF;
+	
+	font-size:30px;
+	
+	
+}
+
+.section-buttons{
+	margin-top: 6px;
+}
+
+.start-button-user{
+	margin-top:6px;
+	background-color: #FFFFFF;
+	height: 160px;
+	border-radius: 2em 2em 2em 2em;
+	margin-left: 20px;
+	margin-right: 20px;
+	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+
+.start-button-user-text{
+	padding-left:20px;
+	padding-top:10px;
+	width: 160px;
+	height: 50px;
+}
+
+.start-button-user-text h2{
+	color: #FF7B40;
+}
+
+.start-button-cafe{
+	margin-top:6px;
+	background-color: #FFFFFF;
+	height: 160px;
+	border-radius: 2em 2em 2em 2em;
+	margin-left: 20px;
+	margin-right: 20px;
+	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+
+.start-button-cafe-text{
+	padding-left:20px;
+	padding-top:10px;
+	width: 160px;
+	height: 50px;
+}
+
+.start-button-cafe-text h2{
+	color: #FF7B40;
+}
+
