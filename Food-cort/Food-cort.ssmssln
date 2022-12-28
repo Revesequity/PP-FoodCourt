@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DataBase service scripts", "DataBase service scripts\DataBase service scripts.ssmssqlproj", "{B7F48534-62C9-4267-AD8F-6743FDE636D1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Enviroment queries", "Enviroment queries\Enviroment queries.ssmssqlproj", "{3290E002-433B-4C19-8FAF-4F70466F0202}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "udb_Urusov_Sergey_Borisovich.sql", "..\..\Лабораторная работа\udb_Urusov_Sergey_Borisovich.sql\udb_Urusov_Sergey_Borisovich.sql\udb_Urusov_Sergey_Borisovich.sql.ssmssqlproj", "{377701CF-2CBF-4301-B03E-247C1808E929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F48534-62C9-4267-AD8F-6743FDE636D1}.Default|Default.ActiveCfg = Default
+		{3290E002-433B-4C19-8FAF-4F70466F0202}.Default|Default.ActiveCfg = Default
+		{E74709C8-291E-4828-BA39-8A84CF261FB3}.Default|Default.ActiveCfg = Default
+		{377701CF-2CBF-4301-B03E-247C1808E929}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C90C290-D5E5-4D70-AC28-CD49783C497C}
+	EndGlobalSection
+EndGlobal
